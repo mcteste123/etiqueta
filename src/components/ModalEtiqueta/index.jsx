@@ -1,6 +1,6 @@
 import { Container, ContainerSon } from './styles';
 
-export function ModalEtiqueta({ empresa, destinatario, endereco, numero, bairro, cep, cidade, uf, volumes, transportadora, notafiscal, obs }) {
+export function ModalEtiqueta({ empresa, destinatario, endereco, numero, bairro, cep, cidade, uf, volumes, transportadora, notafiscal, obs, indexVol }) {
     return (
         <Container>
             <ContainerSon className='Con'>
@@ -49,8 +49,9 @@ export function ModalEtiqueta({ empresa, destinatario, endereco, numero, bairro,
                 <div className="VUNota">
                     <div className="volume">
                         <strong>Volumes</strong>
-                        <span>{volumes}</span>
+                        <span>{indexVol + 1} / {volumes}</span>
                     </div>
+
 
                     <div className="nota">
                         <strong>NF</strong>

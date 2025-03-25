@@ -18,7 +18,6 @@ export function Etiquetas() {
     const transportadora = queryParams.get("transportadora");
     const notafiscal = queryParams.get("notafiscal");
     const obs = queryParams.get("obs");
-
     return (
         <>
             <Container>
@@ -38,6 +37,7 @@ export function Etiquetas() {
                             transportadora={transportadora}
                             notafiscal={notafiscal}
                             obs={obs}
+                            indexVol={index}
                         />
                     ))
                 }

@@ -32,7 +32,6 @@ export function Form() {
             setCep(encontrado.cep || "");
             setCidade(encontrado.cidade || "");
             setUf(encontrado.uf || "");
-            console.log(encontrado);
         } else {
             setDestinatario("");
             setEndereco("");
@@ -46,22 +45,6 @@ export function Form() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-
-        console.log({
-            empresa,
-            codigo,
-            destinatario,
-            endereco,
-            numero,
-            bairro,
-            cep,
-            cidade,
-            uf,
-            volumes,
-            transportadora,
-            notafiscal,
-            obs
-        });
 
         navigate(`/etiquetas?empresa=${encodeURIComponent(empresa)}&destinatario=${encodeURIComponent(destinatario)}&endereco=${encodeURIComponent(endereco)}&numero=${encodeURIComponent(numero)}&bairro=${encodeURIComponent(bairro)}&cep=${encodeURIComponent(cep)}&cidade=${encodeURIComponent(cidade)}&uf=${encodeURIComponent(uf)}&volumes=${encodeURIComponent(volumes)}&transportadora=${encodeURIComponent(transportadora)}&notafiscal=${encodeURIComponent(notafiscal)}&obs=${encodeURIComponent(obs)}`);
     };
