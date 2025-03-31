@@ -145438,5 +145438,425 @@
     "cep": "87080-530",
     "cidade": "MARING�",
     "uf": "PR"
+  },
+  {
+    "Codigo": 14564,
+    "nome_razao_social": "MARACAJU CENTRO DE EDUCACAO E TECNOLOGIA LTDA",
+    "rua": "RUA SANTA MARIA",
+    "Numero_rua": 301,
+    "bairro": "CENTRO",
+    "cep": "79150-000",
+    "cidade": "MARACAJU",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14565,
+    "nome_razao_social": "50.934.123 ADRIANO DOS SANTOS PORCOTE DE SOUZA",
+    "rua": "10A RUA BENJAMIN CONSTANT TEIXEIRA",
+    "Numero_rua": 1632,
+    "bairro": "CENTRO",
+    "cep": "83450-000",
+    "cidade": "BOCAIUVA DO SUL",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14566,
+    "nome_razao_social": "MARIA CAROLINA ARRUDA SILVEIRA",
+    "rua": "Rua Belmiro Barroso da Silva",
+    "Numero_rua": 2370,
+    "bairro": "Conjunto Habitacional Izidro Pedroso",
+    "cep": "79840-303",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14567,
+    "nome_razao_social": "LUANA GON�ALVES EUCLYDES BORGES DA COSTA",
+    "rua": "Rua Rio Doce",
+    "Numero_rua": 326,
+    "bairro": "Sol Nascente",
+    "cep": 38800000,
+    "cidade": "S�O GOTARDO",
+    "uf": "MG"
+  },
+  {
+    "Codigo": 14568,
+    "nome_razao_social": "LAIS FERRARINI",
+    "rua": "Rua Floriano Peixoto",
+    "Numero_rua": 1845,
+    "bairro": "Jardim Am�rica",
+    "cep": "79824-090",
+    "cidade": "Dourados",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14569,
+    "nome_razao_social": "REGINA MARIA CECATTO",
+    "rua": "Rua Jorge Holzmann",
+    "Numero_rua": 288,
+    "bairro": "Col�nia Dona Lu�za",
+    "cep": 84045340,
+    "cidade": "PONTA GROSSA",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14570,
+    "nome_razao_social": "VANDERLEI LUIZ RODRIGUES MUZZI",
+    "rua": "Rua Oliveira Viana",
+    "Numero_rua": 1782,
+    "bairro": "Boqueir�o",
+    "cep": 81670090,
+    "cidade": "CURITIBA",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14571,
+    "nome_razao_social": "DANIELLY ROMEIRO PAUROSI",
+    "rua": "Rua Le�nidas Alem",
+    "Numero_rua": 3015,
+    "bairro": "Jardim Rasslem",
+    "cep": "79813-080",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14572,
+    "nome_razao_social": "JANAINA GOMES CARDOSO FONSECA",
+    "rua": "Rua Luiz Porto Soares",
+    "Numero_rua": 261,
+    "bairro": "VILA DO PRATA",
+    "cep": "79150-000",
+    "cidade": "MARACAJU",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14573,
+    "nome_razao_social": "LUIZ CARLOS NUNES",
+    "rua": "Rua Guilherme Weiss",
+    "Numero_rua": 136,
+    "bairro": "Est�ncia Pinhais",
+    "cep": "83323-200",
+    "cidade": "Pinhais",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14574,
+    "nome_razao_social": "BRENNO HENRIQUE DE OLIVEIRA",
+    "rua": "JOSE MACEDO",
+    "Numero_rua": 170,
+    "bairro": "JD IPANEMA",
+    "cep": "79890-000",
+    "cidade": "Itapor�",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14575,
+    "nome_razao_social": "FORNECEDOR GERAL",
+    "rua": "Rua Erenilda Cassimira Pereira",
+    "Numero_rua": 2511,
+    "bairro": "Jardim dos Pioneiros II",
+    "cep": "87506-740",
+    "cidade": "Umuarama",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14576,
+    "nome_razao_social": "SESI - SERVICO SOCIAL DA INDUSTRIA DE MS",
+    "rua": "RUA WALDOMIRO DE SOUZA",
+    "Numero_rua": 290,
+    "bairro": "VILA INDUSTRIAL",
+    "cep": "79840-030",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14577,
+    "nome_razao_social": "BRUNA SAUSEN",
+    "rua": "Avenida Vinte de Dezembro",
+    "Numero_rua": 415,
+    "bairro": "Jardim Santo Andr�",
+    "cep": "09132-300",
+    "cidade": "Santo Andr�",
+    "uf": "SP"
+  },
+  {
+    "Codigo": 14578,
+    "nome_razao_social": "ANA PAULA SILVEIRA",
+    "rua": "Rua S�o Vicente de Paulo",
+    "Numero_rua": 365,
+    "bairro": "Santa Cec�lia",
+    "cep": "01229010",
+    "cidade": "S�O PAULO",
+    "uf": "SP"
+  },
+  {
+    "Codigo": 14579,
+    "nome_razao_social": "THAMYRIS BLANCO",
+    "rua": "Rua Antonio do Carmo Lima Ramos",
+    "Numero_rua": 86,
+    "bairro": "Jardim Hilda",
+    "cep": "79814-544",
+    "cidade": "Dourados",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14580,
+    "nome_razao_social": "MANOEL SEBASTI�O DOS SANTOS",
+    "rua": "Rua das Canelas",
+    "Numero_rua": 3365,
+    "bairro": "Edelmina Querubim Marchetti",
+    "cep": "78454-590",
+    "cidade": "Nova Mutum",
+    "uf": "MT"
+  },
+  {
+    "Codigo": 14581,
+    "nome_razao_social": "SEST SERVICO SOCIAL DO TRANSPORTE",
+    "rua": "AV JULIO FERREIRA XAVIER",
+    "Numero_rua": 2640,
+    "bairro": "JARDIM ALVORADA",
+    "cep": "79610-320",
+    "cidade": "TRES LAGOAS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14582,
+    "nome_razao_social": "OCTAVIO SAMPAIO DUCATTI",
+    "rua": "RUA XAVANTE",
+    "Numero_rua": 13,
+    "bairro": "JD HIDALGO",
+    "cep": "79700-000",
+    "cidade": "F�TIMA DO SUL",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14583,
+    "nome_razao_social": "LUCIANA COUTINHO",
+    "rua": "Rua Jos� Luiz da Silva",
+    "Numero_rua": 183,
+    "bairro": "Jardim �gua Boa",
+    "cep": "79812-190",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14584,
+    "nome_razao_social": "CENTRO ESTETICO SAUDE E BELEZA LTDA",
+    "rua": "R CAPITAO ERNESTO NUNES DE 711 AO FIM LADO IMPAR",
+    "Numero_rua": 1011,
+    "bairro": "PROGRESSO",
+    "cep": "89281-145",
+    "cidade": "SAO BENTO DO SUL",
+    "uf": "SC"
+  },
+  {
+    "Codigo": 14585,
+    "nome_razao_social": "COOPERATIVA DE CREDITO, POUPANCA E",
+    "rua": "AVENIDA BRASIL",
+    "Numero_rua": 3891,
+    "bairro": "ZONA I",
+    "cep": "87501-000",
+    "cidade": "UMUARAMA",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14586,
+    "nome_razao_social": "SAMUEL KENNED",
+    "rua": "Sebasti�o Marques",
+    "Numero_rua": 19,
+    "bairro": "Centro",
+    "cep": 35190000,
+    "cidade": "IAPU",
+    "uf": "MG"
+  },
+  {
+    "Codigo": 14587,
+    "nome_razao_social": "JAMILLI DE LIMA TOLEDO",
+    "rua": "RUA FRANCISCO DIAS FEITOSA",
+    "Numero_rua": 2210,
+    "bairro": "SERRARIA",
+    "cep": "79200-000",
+    "cidade": "AQUIDAUANA",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14588,
+    "nome_razao_social": "TAINA ASSIS",
+    "rua": "Rua Dom Pedro I",
+    "Numero_rua": 120,
+    "bairro": "Vila Industrial",
+    "cep": "79840-060",
+    "cidade": "Dourados",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14589,
+    "nome_razao_social": "PE COM PE COMERCIO DE CALCADOS LTDA",
+    "rua": "AVENIDA WEIMAR GONCALVES TORRES",
+    "Numero_rua": 2206,
+    "bairro": "CENTRO",
+    "cep": "79800-024",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14590,
+    "nome_razao_social": "TUIA COMERCIO DE PRODUTOS AGROPECUARIOS LTDA",
+    "rua": "AVENIDA HERON DO COUTO",
+    "Numero_rua": 252,
+    "bairro": "VILA JARAGUA",
+    "cep": "79290-000",
+    "cidade": "BONITO",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14591,
+    "nome_razao_social": "I9 ATIVIDADES DE INTERNET LTDA",
+    "rua": "RUA OSCAR FREIRE",
+    "Numero_rua": 2250,
+    "bairro": "PINHEIROS",
+    "cep": "05409-011",
+    "cidade": "SAO PAULO",
+    "uf": "SP"
+  },
+  {
+    "Codigo": 14592,
+    "nome_razao_social": "VITORIA VIEIRA MARTINS RODRIGUES",
+    "rua": "Rua Cabral",
+    "Numero_rua": 1425,
+    "bairro": "Jardim Guanabara",
+    "cep": "79833-070",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14593,
+    "nome_razao_social": "VANIA MARTA MORETTO LTDA",
+    "rua": "RUA DAS HELICONIAS",
+    "Numero_rua": "594 N",
+    "bairro": "JARDIM DAS ORQUIDEAS",
+    "cep": "78452-004",
+    "cidade": "Nova Mutum",
+    "uf": "MT"
+  },
+  {
+    "Codigo": 14594,
+    "nome_razao_social": "JESSICA MUNIZ CANA VERDE",
+    "rua": "Rua Oliveira Marques",
+    "Numero_rua": 2771,
+    "bairro": "Jardim Central",
+    "cep": "79805-020",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14595,
+    "nome_razao_social": "ROSALE DE FARIA COSTA BARBOSA",
+    "rua": "Av Juscelino Kubitscheck",
+    "Numero_rua": 618,
+    "bairro": "Beira lago",
+    "cep": 37170000,
+    "cidade": "BOA ESPERAN�A",
+    "uf": "MG"
+  },
+  {
+    "Codigo": 14596,
+    "nome_razao_social": "JOICE TALITA NEVES RAMOS",
+    "rua": "Rua Barnab� Minhos",
+    "Numero_rua": 597,
+    "bairro": "Jardim Fl�rida",
+    "cep": "79822-485",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14597,
+    "nome_razao_social": "DERMAPED CLINICA MEDICA LTDA",
+    "rua": "AVENIDA MANAUS",
+    "Numero_rua": 3323,
+    "bairro": "ZONA I",
+    "cep": "87501-060",
+    "cidade": "UMUARAMA",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14598,
+    "nome_razao_social": "CLAUDIA REGINA SIMOES RODRIGUES PEDROSO & CIA LTDA",
+    "rua": "RUA CAMILO ERMELINDO DA SILVA",
+    "Numero_rua": 1075,
+    "bairro": "VILA PLANALTO",
+    "cep": "79826-070",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14599,
+    "nome_razao_social": "SILVANA G FRAZAO",
+    "rua": "Rua Valinhos",
+    "Numero_rua": 479,
+    "bairro": "Parque Franceschini",
+    "cep": 13170695,
+    "cidade": "SUMAR�",
+    "uf": "SP"
+  },
+  {
+    "Codigo": 14600,
+    "nome_razao_social": "FABIO GEALH",
+    "rua": "Rua Rio Grande do Norte",
+    "Numero_rua": 530,
+    "bairro": "Centro",
+    "cep": 85960124,
+    "cidade": "Marechal C�ndido Rondon",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14601,
+    "nome_razao_social": "ALEXSANDRO DE OLIVEIRA",
+    "rua": "Rua Santa Catarina",
+    "Numero_rua": 1114,
+    "bairro": "mariluz",
+    "cep": "87470-000",
+    "cidade": "Mariluz",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14602,
+    "nome_razao_social": "VALDINEI DE OLIVEIRA",
+    "rua": "ESTRADA SERRARIA",
+    "Numero_rua": 0,
+    "bairro": "XAMBR�",
+    "cep": 87535000,
+    "cidade": "XAMBR�",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14603,
+    "nome_razao_social": "DAIANE FERNANDA LISIK",
+    "rua": "Avenida Weimar Gon�alves Torres",
+    "Numero_rua": 2559,
+    "bairro": "Centro",
+    "cep": "79800-024",
+    "cidade": "DOURADOS",
+    "uf": "MS"
+  },
+  {
+    "Codigo": 14604,
+    "nome_razao_social": "MARIA CECILIA ANGELO",
+    "rua": "AVENIDA MARING�",
+    "Numero_rua": 5429,
+    "bairro": "ZONA III",
+    "cep": 87502080,
+    "cidade": "UMUARAMA",
+    "uf": "PR"
+  },
+  {
+    "Codigo": 14605,
+    "nome_razao_social": "leandro aparecido faleiros",
+    "rua": "weimar gon�alves  torres",
+    "Numero_rua": 1190,
+    "bairro": "centro",
+    "cep": "79800-000",
+    "cidade": "dourados",
+    "uf": "MS"
   }
 ]
