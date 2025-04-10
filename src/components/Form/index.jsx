@@ -191,11 +191,12 @@ export function Form() {
                         onChange={(e) => setTransportadora(e.target.value)}
                     >
                         <option value="">Selecione uma transportadora</option>
-                        <option value="CACERES EXPRESS">CACERES EXPRESS</option>
+                        <option value="CACERES TRANSPORTES">CACERES TRANSPORTES</option>
                         <option value="EXPRESS DOURADOS">EXPRESS DOURADOS</option>
                         <option value="CARVALIMA TRANSPORTES LTDA">CARVALIMA TRANSPORTES LTDA</option>
                         <option value="VIACAO CRUZEIRO DO SUL LTDA">VIACAO CRUZEIRO DO SUL LTDA</option>
                         <option value="EXPRESSO QUEIROZ">EXPRESSO QUEIROZ</option>
+                        <option value="MEDINA EXPRESS">MEDINA EXPRESS</option>
                         <option value="VIACAO UMUARAMA LTDA">VIACAO UMUARAMA LTDA</option>
                     </select>
 
